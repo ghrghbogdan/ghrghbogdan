@@ -1,1 +1,2 @@
-![poza mia](https://github.com/user-attachments/assets/5ae5aa23-9a2f-47e4-a5ad-d09f0dc81f4b)
+
+![Untitled-2](https://github.com/user-attachments/assets/befb4aad-2739-4052-930f-407738e27236)
