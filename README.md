@@ -1,16 +1,31 @@
-## Hi there 👋
-
-<!--
-**ghrghbogdan/ghrghbogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++xxXXXXXXXX$XXXxx+++++++++++++++
++++++++++++++++xxX$$$$XXXX$$$XXXXXXXx++++++++++++
+++++++++++++++xX$$$$$$XXXX$$$XXXX$XXXXx++++++++++
++++++++++++++XX$$$$$$$$$$$$$$$$$$$$$XXx++++++++++
+++++++++++++xX$XXXXxxxxxxXXxxxxxXXX$$Xx++++++++++
+++++++++++++xXXxxxx++++++++++++xxxxX$Xx++++++++++
+++++++++++++xXXxxxxx++++++++++++xxxxX$X++++++++++
+++++++++++++XXxxxx++++++++++++++xxxxxXx++++++++++
+++++++++++++xXxxxxxxx++++++++++xxxxxxxx++++++++++
+++++++++++++xXxxxXXXX$Xxx++xxX$$XXXxxxx++++++++++
+++++++++++++xXxxxXXXXXxxx+xxXXXXXXxxxx+++++++++++
++++++++++++xxxxxxxxxxx+xxxxxxxxxxxxxxxx++++++++++
++++++++++++xxxxx+++++++xx+xxx++++++xxxx++++++++++
+++++++++++++xxxxx+++++xxx+xxx+++++xxxxx++++++++++
+++++++++++++xxxxx+++++xXxXXXx+++++xxxx+++++++++++
+++++++++++++++xxx++++xxXXXXXxxx++xxxx++++++++++++
++++++++++++++++xxxxxxXXXXXXXXXXxxxxx+++++++++++++
++++++++++++++++xxxxxxxxxxxxxxxxxxxx++++++++++++++
++++++++++++++++xxxxxxxxxXXXxxxxxxx+++++++++++++++
++++++++++++++++xxxxxxxxxxXxxxxxxxx+++++++++++++++
+++++++++++++++++xxxXXXX$XXXXXXXxxx+++++++++++++++
+++++++++++++++++++xxxX$$$$$$Xxxxxx+++++++++++++++
+++++++++++++++xxx++xxxxXXXXxxxxxxxx++++++++++++++
++++++++++xXXXxxxx+++xxxxxxxxxxxxxxxxXXx++++++++++
++++++xxX$$$$$$Xxxx+++xxxxxxxxxxxxxX$$$$$Xx+++++++
+++xXX$$$$$$$$$$XXxxx++xxxxxxxxxxX$$$$$$$$$$$Xx+++
+xX$$$$$$$$$$$$$$$$$XXXXXXXXXX$$$$$$$$$$$$$$$$$$Xx
+X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&$$$$$$$
+X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X
